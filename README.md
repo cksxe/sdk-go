@@ -2,12 +2,12 @@
 
 Official Go client for CustomKeys secrets management.
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/customkeys/sdk-go.svg)](https://pkg.go.dev/github.com/customkeys/sdk-go)
+[![Go Reference](https://pkg.go.dev/badge/github.com/cksxe/sdk-go.svg)](https://pkg.go.dev/github.com/cksxe/sdk-go)
 
 ## Install
 
 ```bash
-go get github.com/customkeys/sdk-go
+go get github.com/cksxe/sdk-go
 ```
 
 ## Quick Start
@@ -19,7 +19,7 @@ import (
     "log"
     "os"
 
-    customkeys "github.com/customkeys/sdk-go"
+    customkeys "github.com/cksxe/sdk-go"
 )
 
 func main() {

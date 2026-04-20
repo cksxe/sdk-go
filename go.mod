@@ -1,4 +1,4 @@
-module github.com/custom-keys/sdk-go
+module github.com/cksxe/sdk-go
 
 go 1.21
 

@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	customkeys "github.com/custom-keys/sdk-go"
+	customkeys "github.com/cksxe/sdk-go"
 )
 
 func Example() {
